@@ -1,49 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "socket.io",
-  "version": "1.0.0",
-  "description": "node.js realtime framework server",
-  "keywords": [
-    "realtime",
-    "framework",
-    "websocket",
-    "tcp",
-    "events",
-    "socket",
-    "io"
-  ],
-  "dependencies": {
-    "debug": "*",
-    "engine.io": "0.4.3",
-    "socket.io-parser": "1.0.2",
-    "socket.io-client": "LearnBoost/socket.io-client",
-    "send": "~0.1.0"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "expect.js": "*",
-    "supertest": "*"
-  },
-  "optionalDependencies": {
-    "redis": "0.7.3"
-  },
-  "contributors": [
-    {
-      "name": "Guillermo Rauch",
-      "email": "rauchg@gmail.com"
-    },
-    {
-      "name": "Arnout Kazemier",
-      "email": "info@3rd-eden.com"
-    },
-    {
-      "name": "Vladimir Dronnikov",
-      "email": "dronnikov@gmail.com"
-    },
-    {
-      "name": "Einar Otto Stangvik",
-      "email": "einaros@gmail.com"
-=======
     "name": "socket.io"
   , "version": "0.9.14"
   , "description": "Real-time apps made cross-browser & easy with a WebSocket-like API"
@@ -79,7 +34,6 @@
   , "engines": { "node": ">= 0.4.0" }
   , "scripts": {
         "test": "make test"
->>>>>>> 41584ae05cba69c3d669ef70b35f4855143f32c4
     }
   ]
 }
